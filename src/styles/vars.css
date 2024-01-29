@@ -1,0 +1,7 @@
+:root{
+    --font-dm-sans: "DM Sans", sans-serif;
+    --bg-icon: #131313;
+    --bg-arrow-color:rgba(0,0,0,0.6);
+    --grid-gap: 24px;
+    --column-count: 5;
+}
